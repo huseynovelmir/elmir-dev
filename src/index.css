@@ -18,6 +18,10 @@
   padding-bottom: 100px;
   display: block;
 }
+.bg-blur{
+ background-color: #000000b7;
+
+}
 
 .black-gradient {
   background: #000000; /* fallback for old browsers */
@@ -37,11 +41,11 @@
 }
 
 .violet-gradient {
-  background: #804dee;
-  background: linear-gradient(-90deg, #804dee 0%, rgba(60, 51, 80, 0) 100%);
+  background: #1e90ff;
+  background: linear-gradient(-90deg, #1e90ff 0%, rgba(60, 51, 80, 0) 100%);
   background: -webkit-linear-gradient(
     -90deg,
-    #804dee 0%,
+    #1e90ff 0%,
     rgba(60, 51, 80, 0) 100%
   );
 }
