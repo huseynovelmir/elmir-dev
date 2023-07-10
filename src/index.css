@@ -32,6 +32,9 @@
     #000000
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
+.boder{
+  border: 1px solid white;
+}
 
 .violet-gradient {
   background: #804dee;
