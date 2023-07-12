@@ -11,19 +11,17 @@ import {
   redux,
   tailwind,
   nodejs,
-  mongodb,
   git,
   figma,
-  docker,
   meta,
-  starbucks,
-  tesla,
-  shopify,
+  tech,
   carrent,
   jobit,
   tripguide,
   threejs,
-} from "../assets";
+  mongodb,
+} from "../assets/index";
+
 
 export const navLinks = [
   {
@@ -109,54 +107,47 @@ const technologies = [
 const experiences = [
   {
     title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    company_name: "Tech Academy",
+    icon: tech,
+    iconBg: "#E6DEDD",
+    date: "Dec 2022 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "My occupation is mentoring the students of Tech Academy.",
+      "I'm participating in code reviews and providing constructive feedbacks to other potential developers.",
+      "I'm able to collaborate with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "I'm always aware of innovation in my profession",
     ],
   },
   {
     title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    company_name: " ",
+    icon: reactjs,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Loading. . .",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Loading. . .",
+     
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    title: "Node.js",
+    company_name: "",
+    icon: nodejs,
+    iconBg: "#E6DEDD",
+    date: "Loading. . .",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Loading. . .",
+     
     ],
   },
   {
     title: "Full stack Developer",
     company_name: "Meta",
-    icon: meta,
+    icon: mongodb,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Loading. . .",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+    "Loading. . ."
     ],
   },
 ];
