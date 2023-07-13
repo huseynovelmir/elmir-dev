@@ -25,9 +25,10 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import tech from "./company/tech.png"
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import tello from "./tello.png"
+import carhub from "./carhub.png"
+import photoai from "./photoai.png"
+
 
 export {
   logo,
@@ -54,7 +55,8 @@ export {
   meta,
   shopify,
   tech,
-  carrent,
-  jobit,
-  tripguide,
+  tello,
+  carhub,
+  photoai,
+
 };

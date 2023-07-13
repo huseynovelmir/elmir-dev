@@ -15,9 +15,9 @@ import {
   figma,
   nextjs,
   tech,
-  carrent,
-  jobit,
-  tripguide,
+  tello,
+  carhub,
+  photoai,
   threejs,
   mongodb,
 } from "../assets/index";
@@ -185,7 +185,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Tello",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
@@ -194,40 +194,41 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "commercejs",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "netlify",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: tello,
+    source_code_link: "https://github.com/huseynovelmir/Tello-commerce",
   },
+
   {
-    name: "Job IT",
+    name: "Car Hub",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
       {
-        name: "react",
+        name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "TypeScript",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Tailwind",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: carhub,
+    source_code_link: "https://github.com/huseynovelmir/nextjs-car-sale",
   },
   {
-    name: "Trip Guide",
+    name: "Photo AI",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
@@ -236,15 +237,15 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "replicate",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "npm",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: photoai,
     source_code_link: "https://github.com/",
   },
 ];
