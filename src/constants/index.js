@@ -13,7 +13,7 @@ import {
   nodejs,
   git,
   figma,
-  meta,
+  nextjs,
   tech,
   carrent,
   jobit,
@@ -77,6 +77,10 @@ const technologies = [
   {
     name: "React JS",
     icon: reactjs,
+  },
+   {
+    name: "Next JS",
+    icon: nextjs,
   },
   {
     name: "Redux Toolkit",
