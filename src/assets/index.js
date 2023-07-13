@@ -28,6 +28,9 @@ import tech from "./company/tech.png"
 import tello from "./tello.png"
 import carhub from "./carhub.png"
 import photoai from "./photoai.png"
+import netfilms from "./netfilms.png"
+import linkpartners from "./linkpartners.png"
+import photosen from "./photosen.png"
 
 
 export {
@@ -58,5 +61,8 @@ export {
   tello,
   carhub,
   photoai,
+  netfilms,
+  linkpartners,
+  photosen,
 
 };

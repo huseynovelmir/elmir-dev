@@ -18,7 +18,10 @@ import {
   tello,
   carhub,
   photoai,
+  netfilms,
+  linkpartners,
   threejs,
+  photosen,
   mongodb,
 } from "../assets/index";
 
@@ -209,7 +212,7 @@ const projects = [
   {
     name: "Car Hub",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+  "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
       {
         name: "nextjs",
@@ -230,7 +233,7 @@ const projects = [
   {
     name: "Photo AI",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
       {
         name: "nextjs",
@@ -246,7 +249,64 @@ const projects = [
       },
     ],
     image: photoai,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/huseynovelmir/nextjs-ai-project",
+  },
+   {
+    name: "NetFilms",
+    description:
+      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+    tags: [
+      {
+        name: "Nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "themoviedb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "vercel",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: netfilms,
+    source_code_link: "https://github.com/huseynovelmir/Nextjs-Film-project",
+  },
+      {
+    name: "Photosen",
+    description:
+      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+    tags: [
+      {
+        name: "Html",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Scss",
+        color: "green-text-gradient",
+      },
+    
+    ],
+    image: photosen,
+    source_code_link: "https://github.com/huseynovelmir/Photosen",
+  },
+     {
+    name: "Link Partners",
+    description:
+      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+    tags: [
+      {
+        name: "Html",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css",
+        color: "green-text-gradient",
+      },
+    
+    ],
+    image: linkpartners,
+    source_code_link: "https://github.com/huseynovelmir/Blogie-Front",
   },
 ];
 
