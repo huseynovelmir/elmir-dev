@@ -42,14 +42,14 @@ const Navbar = () => {
           <img src={toggle ? close : menu} alt="menu" className='w-[28px] h-[28px] object-contain cursor-pointer z-50'
             onClick={() => setToggle(!toggle)}
           />
-          <div className={`${!toggle ? "hidden" : "flex"}  bg-white absolute left-1 right-2 top-2 mx-4 my-2 w-[90%]  z-10 rounded-xl`}>
+          <div className={`${!toggle ? "hidden" : "flex"}  bg-[#1b1b1c] absolute left-1 right-2 top-2 mx-4 my-2 w-[90%]  z-10 rounded-xl`}>
             <ul className='list-none flex  justify-start items-start flex-col gap-4'>
               {navLinks.map((link) => (
                 <li key={link.id}
                   className={`${active === link.title
-                    ? "text-black"
+                    ? "text-white"
                     : "text-secondary"
-                    } hover:text-black text-[18px] 
+                    } hover:text-white text-[18px] 
                 font-medium cursor-pointer mx-4 my-2`}
                   onClick={() => {
                     setActive(link.title);

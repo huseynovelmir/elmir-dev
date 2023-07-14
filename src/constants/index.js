@@ -149,7 +149,7 @@ const experiences = [
   },
   {
     title: "Full stack Developer",
-    company_name: "Meta",
+    company_name: "",
     icon: mongodb,
     iconBg: "#E6DEDD",
     date: "Loading. . .",
@@ -162,26 +162,27 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
+     "🙌 Your programming content is an absolute gem! Thanks for enlightening and inspiring us with your valuable insights. Keep it up!",
+    name: "",
+    designation: "",
+    company: "",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
+      "Your programming tips and tricks have revolutionized my coding journey! Thanks for being an incredible source of inspiration. 👩‍💻🚀",
+    name: "",
     designation: "COO",
     company: "DEF Corp",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+  
+"Your motivational posts are a daily dose of positivity! Thank you for spreading inspiration and empowering us to reach new heights. 🌟",
+    name: "",
+    designation: "",
+    company: "",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
@@ -190,7 +191,7 @@ const projects = [
   {
     name: "Tello",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Convenient and efficient website that allows users to search, add to cart, purchase and create their own account for mobile accessories.",
     tags: [
       {
         name: "react",
@@ -212,7 +213,7 @@ const projects = [
   {
     name: "Car Hub",
     description:
-  "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+  "Easily search and explore cars on our user-friendly website. Discover detailed vehicle information and find your dream ride effortlessly.",
     tags: [
       {
         name: "nextjs",
@@ -233,7 +234,7 @@ const projects = [
   {
     name: "Photo AI",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Transform your typed words into captivating images with our AI-powered website. Experience the magic of visual expression effortlessly.",
     tags: [
       {
         name: "nextjs",
@@ -254,7 +255,7 @@ const projects = [
    {
     name: "NetFilms",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+"Explore the world of movies with our website. Effortlessly search, discover, and access detailed information about your favorite films.",
     tags: [
       {
         name: "Nextjs",
@@ -275,7 +276,8 @@ const projects = [
       {
     name: "Photosen",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      
+"Step into a captivating visual journey through our photographer's blog site. Immerse yourself in stunning imagery and inspiring stories.",
     tags: [
       {
         name: "Html",
@@ -293,7 +295,7 @@ const projects = [
      {
     name: "Link Partners",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+     "Dive into our versatile blog site, offering a seamless blend of captivating articles, engaging visuals, and thought-provoking insights.",
     tags: [
       {
         name: "Html",
