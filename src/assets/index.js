@@ -3,7 +3,7 @@ import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
-import github from "./github.png";
+import github from "./github.svg";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -21,8 +21,6 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import nextjs from "./tech/nextjs.svg"
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
 import tech from "./company/tech.png"
 
 import tello from "./tello.png"
@@ -55,8 +53,6 @@ export {
   typescript,
   threejs,
   nextjs,
-  meta,
-  shopify,
   tech,
   tello,
   carhub,

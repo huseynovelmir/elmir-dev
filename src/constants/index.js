@@ -172,8 +172,8 @@ const testimonials = [
     testimonial:
       "Your programming tips and tricks have revolutionized my coding journey! Thanks for being an incredible source of inspiration. 👩‍💻🚀",
     name: "",
-    designation: "COO",
-    company: "DEF Corp",
+    designation: "",
+    company: "",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {

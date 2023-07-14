@@ -11,7 +11,6 @@ import { slideIn } from "../utils/motion";
 
 
 const Contact = () => {
-  console.log(import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID);
   const formRef = useRef();
   const [form, setForm] = useState({
     name: "",
